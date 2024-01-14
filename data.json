@@ -1,0 +1,170 @@
+[
+  {
+    "breakfast": [
+      {
+        "name": "Pancake combo",
+        "details": "Two pancakes served with two eggs, skillet Two pieces of French toast served with two One ha If waffle served with two eggs, potatoes or hash browns, and your choice of eggs, skillet potatoes or hash browns, and skillet potatoes or hash browns, and your 3 strips of bacon or 3 sausage links your choice of 3 strips of bacon or choice of 3 strips of bacon",
+        "price": 14.49,
+        "img": "https://popmenucloud.com/cdn-cgi/image/width%3D1920%2Cheight%3D1920%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/rzeyidks/c1f36c7e-ec71-4215-8e8f-00e3bd4e7cc5.jpg"
+      },
+      {
+        "name": "FRENCH TOAST COMBO",
+        "details": "Two pancakes served with two eggs, skillet pieces of French toast served with two waffle served with two eggs,potatoes or hash browns, and your choice of 3 strips of bacon or 3 sausage links",
+        "price": 14.49,
+        "img": "https://popmenucloud.com/cdn-cgi/image/width%3D1920%2Cheight%3D1920%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/yvznpfks/fd34f591-186a-4ab5-a77c-ae51feac8b12.jpg"
+      },
+      {
+        "name": "BISCUIT & GRAVY COMBO",
+        "details": "Half order of biscuits and gravy served with two eggs, skillet potatoes or hash browns, and your choice of 3 strips of bacon or 3 sausage links ",
+        "price": 14.49,
+        "img": "https://olo-images-live.imgix.net/bc/bc46c2a33f6d4a50a58b6b86f3e2903f.jpg?auto=format%2Ccompress&q=60&cs=tinysrgb&w=860&h=484&fit=fill&bg=%23fff&s=1f66492df86eb41e0c3e81b75c40a879"
+      },
+      {
+        "name": "Chicken Fajita Omelette",
+        "details": "Grilled chicken breast, red bell peppers, tomato, sautéed pico de gallo, sour cream and guacamole. Served with country potatoes or hash browns ",
+        "price": 14.49,
+        "img": "https://www.thespruceeats.com/thmb/tHsR3VpNhwON_MU4bdyaQ4rQK7k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/chickenomelet-07-0a739b5228244ffb8139ea66d7da9248.jpg"
+      }
+    ]
+  },
+  {
+    "desert": [
+      {
+        "name": "Red Velvet Cake",
+        "details": "Brilliant red velvet cake layers, stacked four high, are spread with deep chocolate truffle filling, then filled with frosted and tangy cream cheese icing.",
+        "img": "https://popmenucloud.com/cdn-cgi/image/width%3D1920%2Cheight%3D1920%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/zkyupvro/a3070646-4ca7-446a-ac85-73debd23dedd.jpg",
+        "price": 8
+      },
+      {
+        "name": "Big Apple Pie",
+        "details": "Mounds and mounds of tart, fresh, crisp apples, saucy with cinnamon apple cider and loaded with crunchy granola'd crumbs.",
+        "img": "https://popmenucloud.com/cdn-cgi/image/width%3D1920%2Cheight%3D1920%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/zkyupvro/d4649cbb-ed98-4919-a359-dc632aa05fb1.jpg",
+        "price": 7
+      },
+      {
+        "name": "Rockslide Brownie",
+        "details": "A light-textured brownie topped with butter-luscious caramel, piled high with brownie cubes, toasted pecans and drizzled with caramel ganache.",
+        "img": "https://popmenucloud.com/cdn-cgi/image/width%3D1920%2Cheight%3D1920%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/zkyupvro/d72365ac-4195-4ec7-bc0d-1a22059803ca.jpg",
+        "price": 4
+      },
+      {
+        "name": "Big Chocolate Cake",
+        "details": "Colossal... layer upon layer of dark, moist chocolate cake sandwiched with our silkiest smooth chocolate filling, piled high with chunks of cake.",
+        "img": "https://popmenucloud.com/cdn-cgi/image/width%3D1920%2Cheight%3D1920%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/zkyupvro/6f94a2cb-56e6-46dd-a1dc-fd84c4707ce2.jpg",
+        "price": 8.25
+      }
+    ]
+  },
+  {
+    "salad": [
+      {
+        "name": "Lulu Tossed Salad",
+        "details": "Large mix of greens, tomato, cucumber, croutons, hard boiled egg. Tossed with choice of dressing.",
+        "img": "https://popmenucloud.com/cdn-cgi/image/width%3D1920%2Cheight%3D1920%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/zkyupvro/7d932e5b-7edc-484b-b495-69ea1fa27cf2",
+        "price": 10.29
+      },
+      {
+        "name": "Italian Chop Salad",
+        "details": "Chopped iceberg lettuce Turkey breast, Italian salami, tomatoes, mozzarella, Greek olives, tossed with balsamic vinaigrette. ",
+        "img": "https://popmenucloud.com/cdn-cgi/image/width%3D1920%2Cheight%3D1920%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/zkyupvro/a41c0cb5-04bf-4f7d-b987-81739ef7826c",
+        "price": 15.29
+      },
+      {
+        "name": "Chicken Caesar Salad",
+        "details": "Romaine lettuce, grilled chicken, parmesan, house-made croutons, Caesar dressing.",
+        "img": "https://popmenucloud.com/cdn-cgi/image/width%3D1920%2Cheight%3D1920%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/zkyupvro/82b7568e-4733-4b6d-8587-5430656b45ea",
+        "price": 15.29
+      },
+      {
+        "name": "Cobb Salad",
+        "details": "Iceberg mix, turkey breast, bacon, hard-boiled egg, avocado, tomatoes, bleu cheese crumbles.",
+        "img": "https://popmenucloud.com/cdn-cgi/image/width%3D1920%2Cheight%3D1920%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/zkyupvro/40943bf8-a372-4a3e-9f9f-e0f70e45d5a5",
+        "price": 15.29
+      }
+    ]
+  },
+  {
+    "seafood": [
+      {
+        "name": "Seafood Platter",
+        "details": "Crispy battered white fish and fried shrimp. Served with cocktail and tartar sauce From the Sea Sides:Garlic Mashed Potatoes French Fries Freshly Made Potato Chips Rice Pilaf",
+        "img": "https://popmenucloud.com/cdn-cgi/image/width%3D1920%2Cheight%3D1920%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/zkyupvro/0d11e8ee-3c7c-4259-a931-3423124fe2a4.jpg",
+        "price": 18.99
+      },
+      {
+        "name": "Fresh Tilapia",
+        "details": "Pan-seared tender white fish. From the Sea Sides:Garlic Mashed Potatoes French Fries Freshly Made Potato Chips Rice Pilaf",
+        "img": "https://popmenucloud.com/cdn-cgi/image/width%3D1920%2Cheight%3D1920%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/zkyupvro/da3e06ba-0625-4b20-b346-75250ffac683",
+        "price": 17.99
+      },
+      {
+        "name": "Fried Shrimp",
+        "details": "Seven batter dipped large shrimp, cocktail sauce.From the Sea Sides:Garlic Mashed Potatoes French Fries Freshly Made Potato Chips Rice Pilaf",
+        "img": "https://popmenucloud.com/cdn-cgi/image/width%3D1920%2Cheight%3D1920%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/zkyupvro/0eb2e011-07d3-4d88-a51a-8dedafc356bf",
+        "price": 17.99
+      },
+      {
+        "name": "English Style Fish N' Batter",
+        "details": "Fried hand-dipped tilapia fillets, tartar sauce, malt vinegar. From the Sea Sides:Garlic Mashed Potatoes French Fries Freshly Made Potato Chips Rice Pilaf",
+        "img": "https://popmenucloud.com/cdn-cgi/image/width%3D1920%2Cheight%3D1920%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/zkyupvro/fca346da-3783-4cbc-a1fb-b207f72cb293",
+        "price": 17.99
+      }
+    ]
+  },
+  {
+    "pastas": [
+      {
+        "name": "Chicken Pasta Primavera",
+        "details": "Chicken breast, sautéed veggies, marinara, fresh garlic, penne.",
+        "img": "https://popmenucloud.com/cdn-cgi/image/width%3D1920%2Cheight%3D1920%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/zkyupvro/dbdee4cc-d428-417f-8789-237fca250101",
+        "price": 16.99
+      },
+      {
+        "name": "Chicken Parmesan",
+        "details": "Breaded chicken breast, marinara, mozzarella, linguine pasta.",
+        "img": "https://popmenucloud.com/cdn-cgi/image/width%3D1920%2Cheight%3D1920%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/zkyupvro/8e2032ba-5248-4036-9d25-44576e1f5826",
+        "price": 17.99
+      },
+      {
+        "name": "Chicken Penne",
+        "details": "Penne pasta, grilled chicken breast, sundried tomatoes, creamy garlic sauce parmesan.",
+        "img": "https://popmenucloud.com/cdn-cgi/image/width%3D1920%2Cheight%3D1920%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/zkyupvro/fea6bb15-30d1-4a47-a750-1b7157f8f303",
+        "price": 17.99
+      },
+      {
+        "name": "Spicy Shrimp Linguine Pomodoro",
+        "details": "Large Shrimp, chunky marinara, linguine noodles Calabrian chili pepper, fresh garlic, parmesan cheese",
+        "img": "https://popmenucloud.com/cdn-cgi/image/width%3D1920%2Cheight%3D1920%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/zkyupvro/5122fe34-5cb4-4521-8943-087fc5e69834.jpg",
+        "price": 16.99
+      }
+    ]
+  },
+  {
+    "instagram": [
+      {
+        "img": "https://popmenucloud.com/cdn-cgi/image/width%3D1920%2Cheight%3D1920%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/zkyupvro/7d932e5b-7edc-484b-b495-69ea1fa27cf2",
+        "name": "Lulu Tossed Salad"
+        
+     
+      },
+      {
+        "img": "https://popmenucloud.com/cdn-cgi/image/width%3D1920%2Cheight%3D1920%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/zkyupvro/0d11e8ee-3c7c-4259-a931-3423124fe2a4.jpg",
+        "name": "English Style Fish N' Batter"
+      
+      
+      },
+      {
+        "img": "https://popmenucloud.com/cdn-cgi/image/width%3D1920%2Cheight%3D1920%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/zkyupvro/dbdee4cc-d428-417f-8789-237fca250101",
+        "name": "Chicken Pasta Primavera"
+      
+        
+      },
+      {
+        "img": "https://popmenucloud.com/cdn-cgi/image/width%3D1920%2Cheight%3D1920%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/rzeyidks/c1f36c7e-ec71-4215-8e8f-00e3bd4e7cc5.jpg",
+        "name": "BISCUIT & GRAVY COMBO"
+        
+       
+      }
+    ]
+  }
+]

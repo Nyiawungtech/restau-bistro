@@ -1,0 +1,268 @@
+/* General setting */
+
+
+/* header */
+
+
+header {
+    background-color: red;
+}
+
+.navbar-light a {
+    color: #fff;
+}
+
+.navbar-nav {
+    background-color: #fff;
+}
+
+.navbar-nav a {
+    color: black;
+}
+
+
+/* showcase section */
+.showcase {
+    height: 100vh;
+    background-image: linear-gradient(90deg, rgba(0, 0, 0, 0.301) 0%, rgba(16, 17, 16, 0.315) 46%), url(/assets/imgs/bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.showcase-heading {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 600;
+    color: #fff;
+    font-size: 3.5rem;
+    text-align: start;
+}
+
+.showcase-text {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 300;
+    color: #fff;
+    text-align: start;
+}
+
+.showcase-btn {
+    background: #FF8800;
+    border: none;
+    width: max-content;
+    text-transform: uppercase;
+
+}
+
+.hidden {
+
+    transition: all 1s;
+}
+
+.show {
+    opacity: 0;
+}
+
+/* About Restau section */
+
+/* .about-us-bg{
+    background-image: url(/assets//imgs/bg-1.jpg);
+} */
+.welcome-text {
+    color: #FF8800;
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+}
+
+.about-story {
+    color: #A6A6A6;
+    font-family: 'DM Sans', sans-serif;
+
+}
+
+/* menu tabs and tabs items */
+.border-primary {
+    border-color: #FF8800 !important
+}
+.tab-item{
+    color: #A6A6A6;
+    font-family: 'DM Sans', sans-serif;
+}
+
+/* menu */
+.food-card{
+     box-shadow: 0px 10px 20px  rgba(10, 10, 10, 0.041);
+    cursor: pointer;
+    
+    
+
+}
+.food-card:hover{
+    box-shadow: 0px 10px 20px  rgba(10, 10, 10, 0.178);
+}
+.food-card-img{
+    width: 18rem;
+    height: 16rem;
+    object-fit: cover;
+}
+.menu-price{
+    color: #FF8800;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+}
+.menu-name{
+    color: #A6A6A6;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+.order-btn{
+    border:none;
+    color: #FF8800;
+    background: #fff;
+    border: #FF8800 1px solid;
+    
+}
+.order-btn:hover{
+    border:none;
+    color: #fff;
+    background: #FF8800;
+    border: #FF8800 1px solid;
+    
+}
+
+/* instagram */
+.post-title{
+    font-family: 'DM Sans', sans-serif;
+    font-size: 17px;
+    text-transform: capitalize;
+}
+.user-img{
+    width: 40px;
+}
+.user-likes{
+    width: 45px;
+    height: 45px;
+}
+.user-likes:not(:first-child){
+    margin-left: -1.5rem;
+}
+
+/* reservation section */
+.reserve-section{
+    background-image: linear-gradient(90deg, rgba(0, 0, 0, 0.301) 0%, rgba(16, 17, 16, 0.479) 46%),url(/assets/imgs/reserve-table-bg.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: fit-content;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.reserve-caption{
+    font-size: 18px;
+    font-family: 'DM Sans', sans-serif;
+}
+.reserve-table-text{
+    font-size: 18px;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+.reserve-btn{
+    border: none;
+    background: #FF8800;
+    color: black;
+}
+
+/* Footer */
+footer{
+    font-family: 'DM Sans', sans-serif;
+    
+}
+.footer-logo{
+    font-size: 15px;
+    font-weight: 600;
+}
+.footer-sub-text{
+    font-weight: 300;
+    font-size: 15px;
+    color: #A6A6A6;
+    text-decoration: none;
+}
+.footer-sub-text:hover{
+    color: #FF8800;
+    
+}
+.footer-2{
+    background: #F9F9F9;
+}
+.footer-copyright{
+    color: #A6A6A6;
+    font-size: 15px;
+    text-align: center;
+    
+}
+.footer-social-links{
+    color: #FF8800;
+    text-decoration: none;
+
+}
+.footer-social-links:hover{
+    color: black;
+}
+
+
+/* !! RESPONSIVE !! */
+/* large screens */
+@media screen and (min-width:1025px) {
+    .navbar-nav {
+        background-color: transparent;
+    }
+    
+    .navbar-nav a {
+        color: white;
+        font-size: 20px;
+    }
+    
+    
+    /* showcase section */
+    .showcase-heading {
+        font-family: 'DM Sans', sans-serif;
+        font-weight: 600;
+        color: #fff;
+        font-size: 5rem;
+        text-align: start;
+    }
+    
+    .showcase-text {
+        font-family: 'DM Sans', sans-serif;
+        font-weight: 300;
+        color: #fff;
+        text-align: start;
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+    .footer-sub-text{
+        font-weight: 300;
+        font-size: 17px;
+        color: #A6A6A6;
+        text-decoration: none;
+    }
+  
+}
+/* tablets  */
+
+@media screen and ( min-width:600px) {
+    .navbar-nav {
+        background-color: transparent;
+    }
+    
+    .navbar-nav a {
+        color: white;
+        font-size: 20px;
+    }
+    
+}
+
