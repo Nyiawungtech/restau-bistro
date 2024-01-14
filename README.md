@@ -5,17 +5,17 @@
 ![Follow me](https://img.shields.io/twitter/follow/wendahdesmond?label=Follow&style=social)
 
 ## About Restau-Distro
-cafe-distro is a project build for a restaurant website where people can view the menu available and order for food. customers can also reserve a table <br>
-this project is made up of one page and it is created for learning purpose. <br>
+Restau-distro is a project built for a restaurant website where people can view the menu available and order for food. customers can also reserve a table <br>
+this project is made up of one page and it is created for learning purposes. <br>
 
 ## Tech stack used
 this website is styled with [boostrap framework](https://getbootstrap.com/) <br>
-the animation library used used for this project is [scroll reveal js](https://scrollrevealjs.org/)<br>
+the animation library used for this project is [scroll reveal js](https://scrollrevealjs.org/)<br>
 the Javascript framework used for this project is [Alpine JS](https://github.com/alpinejs/alpine) <br>
 
 ## resources used
 the design for this project was taken from [Dribble](https://dribbble.com/shots/5480149-Cafe-Bistro-Restaurant-landing-page) and it's designed by [Ofspace Digital Agency](https://dribbble.com/ofspaceuxui)<br>
-this project was build by [Wendah Nyiawung](https://github.com/WendahNyiawung) 📖
+this project was built by [Wendah Nyiawung](https://github.com/WendahNyiawung) 📖
 
 ## my social links
 You can connect with me on
