@@ -10,7 +10,6 @@ this project is made up of one page and it is created for learning purposes. <br
 
 ## Tech stack used
 this website is styled with [boostrap framework](https://getbootstrap.com/) <br>
-the animation library used for this project is [scroll reveal js](https://scrollrevealjs.org/)<br>
 the Javascript framework used for this project is [Alpine JS](https://github.com/alpinejs/alpine) <br>
 
 ## resources used
